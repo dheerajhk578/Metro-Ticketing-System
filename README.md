@@ -1,5 +1,3 @@
-Here’s a professional and well-formatted **README description** for your GitHub repository 👇
-
 ---
 
 ## 🚇 Metro Ticket Booking System
